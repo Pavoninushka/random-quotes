@@ -20,7 +20,16 @@ const setCurrentQuote = (quote) => {
     quote: quote
   };
 };
-const quotesReducer = (state, action) => {
+
+const initialState = {
+  quotes: [],
+  currentQuote: {
+    quote: "Be unique, this matters",
+    author: "Galina Karateeva"
+  }
+};
+
+const quotesReducer = (state = initialState, action) => {
   switch (action.type) {
     case SAVE_QUOTES:
       return {
@@ -33,13 +42,7 @@ const quotesReducer = (state, action) => {
         currentQuote: action.quote
       };
     default:
-      return {
-        quotes: [],
-        currentQuote: {
-          quote: "Be unique, this matters",
-          author: "Galina Karateeva"
-        }
-      };
+      return state;
   }
 };
 
