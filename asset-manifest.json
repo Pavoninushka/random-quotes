@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Random-Quotes/static/css/main.ff1f6dd1.chunk.css",
-    "main.js": "/Random-Quotes/static/js/main.d3549956.chunk.js",
-    "main.js.map": "/Random-Quotes/static/js/main.d3549956.chunk.js.map",
+    "main.js": "/Random-Quotes/static/js/main.e19c4cb3.chunk.js",
+    "main.js.map": "/Random-Quotes/static/js/main.e19c4cb3.chunk.js.map",
     "runtime-main.js": "/Random-Quotes/static/js/runtime-main.9fb6fdd6.js",
     "runtime-main.js.map": "/Random-Quotes/static/js/runtime-main.9fb6fdd6.js.map",
     "static/css/2.544b7959.chunk.css": "/Random-Quotes/static/css/2.544b7959.chunk.css",
-    "static/js/2.70d87979.chunk.js": "/Random-Quotes/static/js/2.70d87979.chunk.js",
-    "static/js/2.70d87979.chunk.js.map": "/Random-Quotes/static/js/2.70d87979.chunk.js.map",
+    "static/js/2.20d67034.chunk.js": "/Random-Quotes/static/js/2.20d67034.chunk.js",
+    "static/js/2.20d67034.chunk.js.map": "/Random-Quotes/static/js/2.20d67034.chunk.js.map",
     "index.html": "/Random-Quotes/index.html",
     "static/css/2.544b7959.chunk.css.map": "/Random-Quotes/static/css/2.544b7959.chunk.css.map",
     "static/css/main.ff1f6dd1.chunk.css.map": "/Random-Quotes/static/css/main.ff1f6dd1.chunk.css.map",
-    "static/js/2.70d87979.chunk.js.LICENSE.txt": "/Random-Quotes/static/js/2.70d87979.chunk.js.LICENSE.txt",
+    "static/js/2.20d67034.chunk.js.LICENSE.txt": "/Random-Quotes/static/js/2.20d67034.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/Random-Quotes/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.9fb6fdd6.js",
     "static/css/2.544b7959.chunk.css",
-    "static/js/2.70d87979.chunk.js",
+    "static/js/2.20d67034.chunk.js",
     "static/css/main.ff1f6dd1.chunk.css",
-    "static/js/main.d3549956.chunk.js"
+    "static/js/main.e19c4cb3.chunk.js"
   ]
 }
