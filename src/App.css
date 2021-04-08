@@ -3,3 +3,36 @@
 body, html, #app {
   height: 100%;
 }
+
+#quote-box {
+  color : black;
+  max-width: 25em;
+  font-size: 1.5rem;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.btn-primary {
+  background-color: #0056B3;
+  border-color: #0056B3;
+}
+
+.text-primary {
+  color: #0056B3 !important;
+}
+
+.fa-quote-left {
+  margin-right: 0.2em;
+}
+
+.fa-quote-right {
+  margin-left: 0.2em;
+}
